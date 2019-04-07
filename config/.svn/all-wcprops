@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/front/!svn/ver/13530/SpecialaClass/config
+END
+dev.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/front/!svn/ver/13530/SpecialaClass/config/dev.env.js
+END
+test.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/front/!svn/ver/13530/SpecialaClass/config/test.env.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/front/!svn/ver/13530/SpecialaClass/config/index.js
+END
+prod.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/front/!svn/ver/13530/SpecialaClass/config/prod.env.js
+END
